@@ -1,0 +1,6 @@
+h2 {background-color: rgb(0, 255, 149); }
+article {
+    display: flex;
+    justify-content: space-between;
+
+}
